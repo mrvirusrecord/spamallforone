@@ -1,4 +1,4 @@
-# Semoga, allah, melaknat orang-orang yang suka rekod sc orang, aamiin
+# Love you pejuang record
 import threading, os, sys, json, time
 from bs4 import BeautifulSoup as bs
 import requests as ru
@@ -23,7 +23,7 @@ class main:
    print (f"          {tot}TENTANG TOOL INI{sop}   ")
    print (f"""
 {kan}Tools spam all for one adalah {kon}spam brutal (sms, wa, call) yang dibuat untuk menjahili teman kalian
-{kan}Bantu terus admin mengembangkan tools ini, dengan cara tidak merecode sc ini 'v'""")
+{kan}Bantu terus admin mengembangkan tools ini, dengan cara merecode sc ini 'v'""")
    os.system("python brutal.py")
   elif (hyu == '4') or (hyu == '04'):
    os.system("git pull")
